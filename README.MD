@@ -4,7 +4,7 @@
 
 Snort++ build quick start (inside the container) with unit test support:
 
-- - - - - debian-snort-dev
+- - - - - Loading and login:
 ```bash
 docker run -t -i nu11secur1ty/debian-snort-dev /bin/bash
 ```
