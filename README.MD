@@ -4,7 +4,7 @@
 
 Snort++ build quick start (inside the container) with unit test support:
 
-- - - - - ubuntu-20.04-snort
+- - - - - debian-snort-dev
 ```bash
 docker run -t -i nu11secur1ty/debian-snort-dev /bin/bash
 ```
